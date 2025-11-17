@@ -1,0 +1,56 @@
+ /* General styling */
+body {
+    font-family: "Poppins", Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background: linear-gradient(135deg, #fef6ff, #f0f8ff);
+    color: #333;
+}
+
+/* Header */
+header {
+    background: linear-gradient(135deg, #ff7eb3, #65d6ff);
+    color: white;
+    padding: 50px;
+    text-align: center;
+    border-bottom-left-radius: 50px;
+    border-bottom-right-radius: 50px;
+}
+
+header h1 {
+    font-size: 40px;
+}
+
+header p {
+    font-size: 18px;
+}
+
+/* Section style */
+section {
+    background: white;
+    padding: 25px;
+    margin: 25px 20px;
+    border-radius: 12px;
+    box-shadow: 0px 4px 15px rgba(0, 0, 0, 0.1);
+}
+
+section h2 {
+    color: #ff6ea1;
+}
+
+/* Hobbies list */
+section ul li {
+    margin-bottom: 8px;
+    font-size: 17px;
+}
+
+/* Footer */
+footer {
+    background: linear-gradient(135deg, #65d6ff, #ff7eb3);
+    padding: 12px;
+    text-align: center;
+    color: white;
+    border-top-left-radius: 50px;
+    border-top-right-radius: 50px;
+}
+
